@@ -1,3 +1,6 @@
+Cloned from https://github.com/harlock974/time-signal
+
+
 # time-signal
 A multiband time signal radio transmitter for Raspberry Pi.
 
